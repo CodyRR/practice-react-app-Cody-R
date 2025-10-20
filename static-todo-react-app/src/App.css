@@ -1,0 +1,19 @@
+
+.profileCard {
+  margin: 2px;
+  text-align: left;
+}
+
+.profileCardContainer {
+  display: inline-block;
+  margin-bottom: 20px;
+  border: 5px solid;
+  border-color: black;
+  border-radius: 10px;
+  width: 25%;
+  height: 100px;
+}
+
+.container {
+  text-align: center;
+}
